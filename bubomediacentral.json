@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "bubomediacentral",
+  "private_key_id": "e460b937952fe081a99e5d3d91df5ddf332002a7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCYbVTplJuo2ELY\n5p4CGJQ9GBn6+Q/MQfNCLruwvgR7Oh8WNJvMUYoGQpwnYYClq2JWn4FMcLX/m1i6\nfgpoTlsHAfKoU3eauHMdkxZN6UTXlSI4+O4pRtmJOqKnPIpE82dkbO0HokJ/UcKg\nRa62pe8kWhCk0FmnFYIp0k/3y0DASAuvc9Q+KhUbWTFIbRwSmnPeb0YueKwRTgcT\naL1sAhn263U+7Xuwus2Q68Xj9QgOeEDIoqincewpTKmnFZg/mFRtjHJStQBSpAOM\n5UkdEZx0VYj8Hp02qbwI6lcr1UkNwKmH17E4EORbKlxpDsUUkbPus6fveqR87t/H\nHeeKdc31AgMBAAECggEAMix28WZR8LuzEVukMlNt5EhdMPAv44/n52ajsJNzvS5O\nEkyh5hkHAnWFmi7tnlryRUo+0O8e8XLsu4KGoXv9Waqp+f9zlNHXTqpegqng18fG\n2pMSLjMcox/Sb5MtfnHSnEuAoG0oT2mV05TsZEHtnH0rEl1kzWt2i5anbQ0SFNiA\nHppJ0YxiyWUQqGjGL9hD3UR7K6aLOLHfkXBxxySwl7LEUb33RlbaLkE9q+acFRJ+\nZpvy/emlaKy19Vya5q/PoxKtR5bvKB+GTLbXlBdYdmwEuwsndcYxEAI7kKiF6zpV\nJCPE9KYO0E7b4oAl8aRi165z6oplR+Xo0W9ADU8KNwKBgQDNasvEPXs1RURbk4si\ntLmnHX941xsXC06vKgd4KD3qBAzy3GZN1gXNW/rWOUl0HYOllazlN0UonwuCLgQF\nQ6kQj0L9eeG8XXrjWVdt5BLfQH2AN5e+cieTJ7udNjzUI8Rd6pVLQBXDXagjEtjN\nmAMc7mQcmXUR4GI1ebMqcYU/lwKBgQC99h25b2S7RtlTyZLVCmB30MTi0B8G5uGS\nb489l3hodF55+h6AHk/E+8Re5mMqeLHfakGCUF6pG8iXGT+FGKf1aUlvOAgF5hHU\n9MIoD977gb6pLzxkojqaliHirp/HFvhedBN+Nr7DGDOMtzeFoCRf8xfmIVWux7so\nTTz2RxVQUwKBgQCvkyi3gxVcYuganfG+qFpGzJ+32aP9/lwyu+nGeh7xdqTasCeB\nP/2VmZi8ohp2dQOg9F3jTWp/XfGoQ0yMc1h+HvVTUmnvZrcyu5pPAzJeP/EFNn8s\n+MV6setaZJF5gVjGLUuOFiiD4/ligSluERAYGmrXRxMZRICs1GifTohl4QKBgBp+\nHJ8j/fRwaRbaYfP8Qn/zScIoLGuV/5egn2WDnnNS52ozi9VqZM2gHz7s+p+NvaDe\n/Mvj0Y/cJBmOl+FEEwiS6n7sXZIVCB+fEwTrUbnZ2nFV+SI/zdSJY6htmjL17SWf\nIqjTkb87vNS/KKsmLmyDRq39sCl0CZIRU5M1Tq+pAoGAeAFCOpAVhEGDFFrGryJ2\nTM6t+w6TcaoPprGEiUQXz0NjNt1JssBC/9tr9GplR2kfLAfQa7G9Jnkqw11pxLZS\nrfe/gwbCwZCp6Lf7P9UWDllJJCLZ+H0eNnrFyf8C5iiukBeS8LGhlsNEUulF9pMp\nzplYtmTBvZY6F8qJJXTbWG0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-nbprb@bubomediacentral.iam.gserviceaccount.com",
+  "client_id": "101565979691466823209",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-nbprb%40bubomediacentral.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
